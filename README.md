@@ -1,2 +1,2 @@
-# bodhan-model-info
+# About Bodhan Models
 Information about models released by Bodhan AI
